@@ -78,14 +78,3 @@ generateToken(client_id, client_secret, code);
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-Melhorias realizadas:
-
-- Adicionei headers com níveis apropriados
-- Organizei a estrutura de forma hierárquica
-- Formatei os blocos de código corretamente
-- Adicionei listas numeradas e com bullets onde apropriado
-- Destaquei termos técnicos com backticks
-- Adicionei um link para o arquivo de licença
-- Incluí uma linha horizontal para separar o conteúdo principal
-- Mantive espaçamento consistente entre as seções
