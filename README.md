@@ -18,7 +18,7 @@ Este projeto contém uma função `generateToken` que gera um token de autentica
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd seu-repositorio
+   cd gerar_token_bling_javascript
    ```
 
 ## Uso
