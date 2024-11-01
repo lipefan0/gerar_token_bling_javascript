@@ -13,7 +13,7 @@ Este projeto contém uma função `generateToken` que gera um token de autentica
 1. Clone o repositório:
 
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/lipefan0/gerar_token_bling_javascript.git)
+   git clone https://github.com/lipefan0/gerar_token_bling_javascript.git
    ```
 
 2. Navegue até o diretório do projeto:
