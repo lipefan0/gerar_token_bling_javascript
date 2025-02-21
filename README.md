@@ -25,6 +25,10 @@ Este projeto contém uma função `generateToken` que gera um token de autentica
 
 1. Abra o arquivo `index.js` e substitua `YOUR_CLIENT`, `YOUR_SECRET` e `YOUR_CODE` com suas credenciais e código:
 
+   OBS: Para o CODE utilize o Link de convite para gerar.
+![image](https://github.com/user-attachments/assets/7c858869-6fe6-4e57-adde-8d6c973c0b97)
+
+
 ```javascript
 const client_id = "YOUR_CLIENT";
 const client_secret = "YOUR_SECRET";
