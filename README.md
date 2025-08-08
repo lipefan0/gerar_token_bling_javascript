@@ -13,17 +13,21 @@ Este projeto contém uma função `generateToken` que gera um token de autentica
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/lipefan0/gerar_token_bling_javascript.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd seu-repositorio
+   cd gerar_token_bling_javascript
    ```
 
 ## Uso
 
 1. Abra o arquivo `index.js` e substitua `YOUR_CLIENT`, `YOUR_SECRET` e `YOUR_CODE` com suas credenciais e código:
+
+   OBS: Para o CODE utilize o Link de convite para gerar.
+![image](https://github.com/user-attachments/assets/7c858869-6fe6-4e57-adde-8d6c973c0b97)
+
 
 ```javascript
 const client_id = "YOUR_CLIENT";
@@ -78,14 +82,3 @@ generateToken(client_id, client_secret, code);
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-Melhorias realizadas:
-
-- Adicionei headers com níveis apropriados
-- Organizei a estrutura de forma hierárquica
-- Formatei os blocos de código corretamente
-- Adicionei listas numeradas e com bullets onde apropriado
-- Destaquei termos técnicos com backticks
-- Adicionei um link para o arquivo de licença
-- Incluí uma linha horizontal para separar o conteúdo principal
-- Mantive espaçamento consistente entre as seções
